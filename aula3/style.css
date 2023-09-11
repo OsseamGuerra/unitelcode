@@ -1,0 +1,25 @@
+header {
+  color: white;
+  background-color: black;
+  display: flex;
+}
+button {
+  color: black;
+  background-color: white;
+  border: none;
+  height: 50px;
+  width: 100px;
+}
+ul {
+  font-size: 16px;
+  list-style: none;
+  text-transform: uppercase;
+}
+li {
+  font-size: 1.5em;
+}
+img {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
