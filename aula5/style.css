@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#botao {
+  color: #fff;
+  padding: 15px 35px; /* Espaçamentos interno */
+  background-color: #008000; /* Cor de fundo */
+
+  font-weight: 700;
+  text-decoration: none;
+
+  border-radius: 5px;
+}
